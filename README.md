@@ -23,3 +23,6 @@
 !["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
 
 !["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721118-cf5c59d2-31ff-4b06-86cb-262dd1b655fc.png "Responsive React Movies App With API")
+
+# Special Thanks
+![TMDB](https://user-images.githubusercontent.com/75971776/170100247-c848c9a3-23a5-4ced-9ce7-fedfa10efcd5.svg)
